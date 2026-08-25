@@ -1,0 +1,4 @@
+- [x] Restaurar `Toolbar` em `activity_detail.xml`
+- [x] Limpar `DetailActivity.java` (remover Glide e consertar imports)
+- [x] Limpar `ProfileActivity.java` (remover Glide e consertar imports)
+- [x] Verificar compilação com `gradle assembleDebug`

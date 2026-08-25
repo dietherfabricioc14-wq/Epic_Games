@@ -1,0 +1,3 @@
+- [x] Atualizar `activity_main.xml` com a imagem de destaque e lista de tendências
+- [x] Remover carregamento de imagem via Glide em `MainActivity.java`
+- [x] Verificar alterações no layout
